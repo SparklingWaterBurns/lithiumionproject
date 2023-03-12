@@ -1,0 +1,11 @@
+{
+  "versionReq": 0.2,
+  "date": "2014-06-25T00:00:00.000Z",
+  "production": true,
+  "update": {
+    "id": "12345",
+    "title": "Testing!",
+    "author": "John Doe",
+    "body": "News updates testing using HTTP requests. Lorem ipsum."
+  }
+}
