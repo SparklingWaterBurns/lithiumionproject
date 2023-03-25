@@ -1,0 +1,11 @@
+{
+  "previewdata": [
+    {
+      "line1": "Security fixes",
+      "line2": "Fixed crashes",
+      "thumbnail": "none",
+      "nothumbnail": false
+    }
+  ],
+  "ver": "sec_0.2.1"
+}
